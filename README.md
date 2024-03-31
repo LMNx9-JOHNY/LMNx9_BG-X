@@ -12,6 +12,6 @@ In This Tool - 8k Ultra BG Remove With Photo Link 🔥 Fast &amp; Unlimited 💥
      git clone https://github.com/LMNx9-JOHNY/LMNx9_BG-X
      cd LMNx9_BG-X
      chmod +x *
-     python LMNx9_BG-X_v1.0.1.py
+     python LMNx9_BG-X.py
 
 #  DARK TEAM LMNx9
